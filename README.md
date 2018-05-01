@@ -1,12 +1,4 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) CSS Selector Basics (90 min)
-
-| Timing | Type | Topic |
-| --- | --- | --- |
-| 5 min | [Opening](#opening) | CSS |
-| 20 min | [Intro to New Material](#introduction) | What is CSS? |
-| 15 min | [Demo](#demo) | CSS Tools of the Trade |
-| 45 min | [Independent Practice](#ind-practice) | CSS Challenges |
-| 5 min | [Conclusion](#conclusion) |Review and Questions |
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) CSS Selector Basics
 
 ### LEARNING OBJECTIVES
 *After this lesson, you will be able to:*
@@ -30,22 +22,9 @@
 - Use HTML tags to define groups of content: header, main, section, article, aside, figure, figcaption, and footer.
 - Pass The CSS Validator without errors.
 
-### INSTRUCTOR PREP
-*Before this lesson, instructors will need to:*
-
-- Be ready to assess students' understanding of HTML.
-
----
-
-<a name="opening"></a>
-## Opening: (5 min)
-- Review the purpose of HTML.
-- Remind students of CSS' relationship to HTML.
-
-***
 
 <a name="introduction"></a>
-## Intro to New Material: What is CSS? (20 min)
+## Intro to New Material: What is CSS? 
 
 #### Overview
 Cascading Style Sheets (CSS) transform the content on your web page into a well-designed website. While HTML's purpose is to define what content *is*; CSS's purpose is to define how content should *look*.
@@ -355,7 +334,7 @@ Selects all tags on the page *without* using ancestry.
 ***
 
 <a name="demo"></a>
-## Demo: CSS Tools of the Trade (15 min)
+## Demo: CSS Tools of the Trade
 
 ### Tools of the Trade
 Oftentimes, dealing with CSS can be a pain. Getting a web page to look the way you want will take a lot of experimentation, iteration, and patience as you learn the most efficient ways to code. Here are some great resources to help you master CSS:
@@ -381,7 +360,7 @@ What should you do if a concept is unfamiliar?
 ***
 
 <a name="ind-practice"></a>
-## Independent Practice: CSS Challenges (45 min)
+## Independent Practice: CSS Challenges
 
 > Instructor Note: This can be done independently or in groups.
 
@@ -437,7 +416,7 @@ Navigate to [CodePen](http://codepen.io/), create a new Pen, and complete the fo
 ***
 
 <a name="conclusion"></a>
-## Conclusion (5 min)
+## Conclusion 
 - During the independent practice, which rules did you find to be most challenging? Why?
 - Imagining a site that you visit often, what are some examples of content for which special selectors might be useful?
 - Is there a special selector you **wish** existed?
