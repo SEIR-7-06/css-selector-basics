@@ -20,7 +20,6 @@
 - Write HTML that renders as a document in the browser.
 - Use HTML tags to add content to a web page (h1-h6, p, a, img, ul/ol).
 - Use HTML tags to define groups of content: header, main, section, article, aside, figure, figcaption, and footer.
-- Pass The CSS Validator without errors.
 
 
 <a name="introduction"></a>
