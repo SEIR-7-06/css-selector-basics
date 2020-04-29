@@ -388,7 +388,6 @@ Navigate to [CodePen](http://codepen.io/), create a new Pen, and complete the fo
 - Add text in the `section` tag, outside of the `p` tag.  
 - Add some text within the `p` tag.
 - Style the `section` tag to give its text some color.
-- Note that the `p` tag has also been affected.  
 
 #### Describe how to combine various selectors.
 
