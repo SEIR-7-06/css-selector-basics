@@ -1,0 +1,140 @@
+/*
+Comments in CSS
+*/
+
+/* CSS STYLE ANATOMY
+
+selector {
+  property: value;
+}
+
+*/
+
+/* ID's & Classes */
+
+/*
+  <p id="greeting" class="special">Hello?!?!?<p>
+
+*/
+
+/* CSS SELECTORS
+
+1) Type Selector: <p>, <span>, <div>, <a>, etc.
+2) ID Selector: #
+3) Class Selector: .
+4) Universal Selector: *
+
+*/
+
+
+/*
+  
+  <p id="greeting" class="special">Hello?!?!?<p>
+
+*/
+
+/* CSS is read top to bottom. The last definition will override previous definitions */
+
+/* Specificity = Tag => Class => ID => !important */
+
+body {
+  font-size: 14px;
+}
+
+p {
+  font-size: 15px;
+}
+
+#greeting {
+  font-size: 18px;
+}
+
+.special {
+  font-size: 24px !important;
+  font-weight: bold;
+}
+
+
+/* SPECIAL SELECTORS */
+
+/* Tag Qualified */
+
+a.sale-item {
+  color: red;
+}
+
+p.sale-item {
+  font-weight: bold;
+}
+
+/* Multi Selector */
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+/* Descendant Selector */
+
+/*
+  <div class="main">
+    <h2></h2>
+    <p class="lead"></p>
+    <div>
+      <p class="lead"></p>
+    </div>
+  </>
+  <p class="lead"></p>
+*/
+
+.main .lead {
+  /*  */
+  font-size: 14px;
+  font-weight: bold;
+}
+
+
+/* Direct Descendant Selector */
+
+.main > .lead {
+  /*  */
+  font-size: 14px;
+  font-weight: bold;
+}
+
+/* Adjacent Sibling Selector */
+
+/*
+  <div class="main">
+    <h2></h2>
+    <p class="lead"></p>
+    <div>
+      <p class="lead"></p>
+    </div>
+  </>
+  <p class="lead"></p>
+*/
+
+h2 + p {
+  color: powderblue;
+}
+
+
+/* Universal Selector */
+
+* {
+  padding-right: 20px;
+  width: 500px;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+/* Pseudo Selector */
+
+:hover {
+
+}
