@@ -43,7 +43,7 @@ Keep in mind that, even without CSS, your site has design. It's not very *good* 
 - Predetermined margin and padding
 - Predetermined display (inline vs. block)
 
-These styles are called inherent or initial styles. Adding CSS is all about overriding these initial styles to create a customized web page. CSS is powerful! Consider the incredible diversity of design in [these websites](http://www.mezzoblue.com/zengarden/alldesigns/), all of which have the same HTML, but different CSS.
+These styles are called inherent or initial styles. Adding CSS is all about overriding these initial styles to create a customized web page. CSS is powerful! Consider the incredible diversity of design in [these websites](https://www.webdesign-inspiration.com/), all of which have the same HTML, but different CSS.
 
 You can do [a lot with very little](http://jgthms.com/web-design-in-4-minutes/) using CSS. And, if you want to go the extra mile, you can accomplish some [seriously amazing things](http://codepen.io/). This lesson is a step toward building a working knowledge of CSS and solidifying what you learned in the pre-work. Your goal isn't to memorize the 500+ CSS properties — it's to get an idea of what you can accomplish with CSS and how to research what you don't already know.
 
